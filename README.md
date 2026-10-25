@@ -1,7 +1,7 @@
 # Cybersecurity-Portfolio
 Portafolio de laboratorios y proyectos de ciberseguridad, Red Team y Ethical Hacking
 
-**# 🛡️ Cybersecurity Portfolio
+# 🛡️ Cybersecurity Portfolio
 
 ### 👨‍💻 Nazario | Ingeniero en Ciberseguridad
 
@@ -86,4 +86,4 @@ Mi objetivo es desempeñarme profesionalmente en áreas de Red Team, Pentesting 
 
 ---
 
-### 🔐 Ethical Hacking | Red Team | Cyber**
+### 🔐 Ethical Hacking | Red Team | Cyber
